@@ -14,8 +14,7 @@ Este es un sistema de base de datos relacional para la libreria quijote (Practic
 | 6      | Diagrama UML    |
 | 7      | FAQs            |
 | 8      | Licencia        |
-| 9      | Grupo           |
-| 10      | Consultas      |
+| 9      | Creador         |
 
 ## 1 Instalación 
 
@@ -84,3 +83,29 @@ Lista de tecnologías utilizadas en el proyecto:
 
   Permite registrar múltiples productos en una sola orden de compra. Si un proveedor envía varios productos en una sola orden, cada uno puede ser registrado con su propia cantidad y precio.
 
+## 6. Esquema
+
+![alt text](images/esquema.png)
+
+## 6 FAQs 
+
+Lista de preguntas frecuentes:
+
+1. ¿Cómo puedo contribuir al proyecto?
+   _Puedes contribuir creando un fork del repositorio y enviando un pull request._
+
+2. ¿Este proyecto está abierto a contribuciones?
+   | Tipo de contribución | Aceptado | Comentarios |
+   |:---------------------|:--------:|------------:|
+   | Reporte de errores | Sí | Utiliza la sección de issues en GitHub |
+   | Nuevas características| Sí | Envía un pull request con tus propuestas |
+
+## 7 Licencia 
+
+Este proyecto está licenciado bajo la Licencia MIT.
+
+> La Licencia MIT es una licencia de software libre permisiva que es ampliamente utilizada en la comunidad de software
+
+## 8 Creador
+
+- Adrian Daniel Ustariz Ortiz
